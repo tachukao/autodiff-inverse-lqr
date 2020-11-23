@@ -1,0 +1,4 @@
+(executables
+ (names inverse_lqr)
+ (libraries owl base stdio cmdargs owl-opt owl-opt-lbfgs)
+ (preprocess (pps ppx-owl-opt)))
