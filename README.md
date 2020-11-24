@@ -1,6 +1,6 @@
 # Inverse LQR with automatic differentiation
 
-This is a simple example that accompanies the technical note [Automatic differentiation of Sylvester, Lyapunov, and algebraic Riccati equations]().
+This is a simple example that accompanies the technical note [Automatic differentiation of Sylvester, Lyapunov, and algebraic Riccati equations](https://arxiv.org/abs/2011.11430).
 
 # Run example
 ```sh
